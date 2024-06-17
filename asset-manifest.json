@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10a0d596.css",
+    "main.js": "/static/js/main.207008e6.js",
+    "static/media/Me.png": "/static/media/Me.9d287bce9555fbbcce56.png",
+    "static/media/economical-research.jpg": "/static/media/economical-research.3cb99f1480613fb5d6b3.jpg",
+    "static/media/mkm.jpg": "/static/media/mkm.1ef4a37c39bc475fb254.jpg",
+    "static/media/logo2.png": "/static/media/logo2.e60e5cd94926f43965f7.png",
+    "static/media/email.png": "/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/github.512x497.png": "/static/media/github.512x497.d75803d5aeb1ffbad830.png",
+    "static/media/linkedin_icon_colored.png": "/static/media/linkedin_icon_colored.f249b38224ca41a0b909.png",
+    "static/media/ui-design.png": "/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/index.html",
+    "main.10a0d596.css.map": "/static/css/main.10a0d596.css.map",
+    "main.207008e6.js.map": "/static/js/main.207008e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a0d596.css",
+    "static/js/main.207008e6.js"
+  ]
+}
